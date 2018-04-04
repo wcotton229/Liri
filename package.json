@@ -4,6 +4,7 @@
   "description": "Liri Homework # 10",
   "main": "liri.js",
   "dependencies": {
+    "spotify": "^0.3.0",
     "twitter": "^1.7.1"
   },
   "devDependencies": {},
