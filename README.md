@@ -52,5 +52,12 @@ Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 Built With
 Visual Stuido Code
+
 Authors
 William Cotton
+
+Demo
+![do-what-it-says](https://user-images.githubusercontent.com/32826633/38347719-bcea8382-3862-11e8-8294-3a68ae53ea1b.PNG)
+![movie-this](https://user-images.githubusercontent.com/32826633/38347720-bffbe91c-3862-11e8-9c95-a18439e20db6.PNG)
+![my-tweets](https://user-images.githubusercontent.com/32826633/38347722-c1a3a458-3862-11e8-9dae-4de9e98d6795.PNG)
+![spotify-this-song](https://user-images.githubusercontent.com/32826633/38347723-c338485a-3862-11e8-9c25-e517a125f6c5.PNG)
